@@ -1,8 +1,10 @@
 package main
 
+import "fmt"
+
+//очень важный комментарий
 //тестовое задание (Стрельцов Георгий)
 import (
-	"fmt"
 	"os"
 	"strconv"
 	"strings"
